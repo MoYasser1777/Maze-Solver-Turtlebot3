@@ -23,7 +23,7 @@ Follow these steps to set up and run the project:
 2. **Clone the Repository**:  
    ```bash  
    cd ~/catkin_ws/src  
-   git clone https://github.com/<your-username>/maze-solver-robot.git  
+   git clone https://github.com/MoYasser1777/maze-solver-robot.git  
    ```  
 
 3. **Build the Workspace**:  
