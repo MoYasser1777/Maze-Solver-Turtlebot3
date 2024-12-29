@@ -64,7 +64,7 @@ Follow these steps to set up and run the project:
 
 Check out the robot in action! 
 
-![test1_video](https://github.com/user-attachments/assets/6c143523-8f9d-4739-8b6b-ce02d9c9609e)
+![demo_video](https://github.com/user-attachments/assets/6c143523-8f9d-4739-8b6b-ce02d9c9609e)
 
 
 
