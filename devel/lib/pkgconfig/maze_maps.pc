@@ -1,0 +1,8 @@
+prefix=/home/myasser/maze_ws/devel
+
+Name: maze_maps
+Description: Description of maze_maps
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
